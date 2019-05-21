@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+*.pyc
+__pycache__
+
+data/**
+
+**.env
+.idea
+
+.services-dev
+
+!.gitkeep
